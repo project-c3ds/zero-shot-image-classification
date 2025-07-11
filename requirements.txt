@@ -1,7 +1,10 @@
+git+https://github.com/openai/CLIP.git
 jupyter==1.1.1
+jupyterlab_rise==0.43.1
 matplotlib==3.10.3
 pandas==2.2.3
 pillow==11.2.1
+RISE==5.7.1
 scikit-learn==1.6.1
 torch==2.7.0
 torchvision==0.22.0
